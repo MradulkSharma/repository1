@@ -1,2 +1,2 @@
-# repository1(2nd commit)
-My first repository on github
+# repository1 
+My first repository on github(2nd commit)
